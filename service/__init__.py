@@ -1,0 +1,3 @@
+from service.GitHubPulls import GitHubPulls
+from service.GitHubPullsCommets import GitHubPullsCommetsServis
+from service.GitHubClient import GitHubClient
